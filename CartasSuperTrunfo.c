@@ -6,9 +6,13 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
-int populacao;
+int população;
 float area, pib;
 int pontos_turisticos;
+
+
+
+
   // Área para entrada de dados
     printf("Digite a população: ");
     scanf("%d", &populacao);
