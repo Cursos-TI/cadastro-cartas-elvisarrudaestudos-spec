@@ -10,21 +10,18 @@ int população;
 float area, pib;
 int pontos_turisticos;
 
-
-
-
   // Área para entrada de dados
-    printf("Digite a população: ");
-    scanf("%d", &populacao);
+  printf("Digite a população: \n");
+  scanf("%d", &população);
 
-    printf("Digite a área em km²: ");
-    scanf("%f", &area);
+  printf("Digite a área em km²: ");
+  scanf("%f", &area);
 
-    printf("Digite o PIB em bilhões: ");
-    scanf("%f", &pib);
+  printf("Digite o PIB em bilhões: ");
+  scanf("%f", &pib);
 
-    printf("Digite o número de pontos turísticos: ");
-    scanf("%d", &pontos_turisticos);
+  printf("Digite o número de pontos turísticos: ");
+  scanf("%d", &pontos_turisticos);
 
   // Área para exibição dos dados da cidade
     printf("\n=== Dados da Carta ===\n");
