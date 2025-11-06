@@ -24,7 +24,7 @@ int pontos_turisticos;
 
   // Área para exibição dos dados da cidade
     printf("\n=== Dados da Carta ===\n");
-    printf("População: %d habitantes\n", populacao)
+    printf("População: %d habitantes\n", populacao);
     printf("Área: %.2f km²\n", area);
     printf("PIB: %.2f bilhões\n", pib);
     printf("Pontos Turísticos: %d\n", pontos_turisticos);
