@@ -22,7 +22,7 @@ int pontos_turisticos;
 
   printf("Digite o número de pontos turísticos: ");
   scanf("%d", &pontos_turisticos);
-
+  
   // Área para exibição dos dados da cidade
     printf("\n=== Dados da Carta ===\n");
     printf("População: %d habitantes\n", população);
